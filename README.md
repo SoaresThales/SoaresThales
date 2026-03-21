@@ -2,57 +2,70 @@
 
 I’m an entrepreneur with a background in Civil Engineering, currently transitioning into Software Development and Infrastructure.
 
-Based in Curitiba, Brazil, I’ve always worked with problem-solving — first in engineering, then running my own businesses, and now building software and systems.
+Based in Curitiba, Brazil, I’ve always worked with problem-solving — from engineering to managing my own businesses, and now building software and backend systems.
 
-Lately, I’ve been focused on Linux, home servers, and learning how web applications actually work behind the scenes.
+Recently, I’ve been focused on **backend development, containerization, and self-hosted infrastructure**, building projects that simulate real-world applications.
 
 ---
 
 ## Tech Stack & Tools
 
-**Currently learning**
-- HTML5, CSS3
-- JavaScript fundamentals
+**Backend & Web**
+- Node.js (Express)
+- REST APIs
+- MongoDB & Mongoose
 
 **Infrastructure & Systems**
+- Docker & Docker Compose
 - Ubuntu / Linux
-- Docker & CasaOS
-- Tailscale (remote access & networking)
+- Tailscale (networking & remote access)
+
+**Front-end (in progress)**
+- HTML5, CSS3
+- JavaScript (Vanilla)
 
 **Self-hosted stack**
 - Jellyfin
 - Radarr, Sonarr, Lidarr
 
-**Hardware**
-- Repurposing and maintaining older machines (Sony Vaio home server project)
-
 ---
 
 ## Projects
 
+**LibreFlix (Full-Stack Project)**  
+A movie streaming platform built to understand real-world application architecture.
+
+- REST API with MongoDB (Mongoose)
+- Dockerized environment with multi-container setup
+- Authentication via middleware and environment variables
+- Front-end consuming API with async/await
+
+This project evolved from a static page into a structured backend system, focusing on scalability and real-world practices.
+
+---
+
 **Home Server Lab**  
-Turning an old Sony Vaio SVE14 into a fully functional home server.  
-This is where I experiment with Docker, media automation, networking, and performance tuning.
+Transforming a Sony Vaio SVE14 into a fully functional home server.
 
-**LibreFlix**  
-A movie streaming project evolving step by step:
-- Started as a static front-end
-- Moved to API consumption
-- Now implementing persistence with Node.js
-
-This project is my way of understanding how real applications are structured.
+- Docker-based services
+- Media automation stack
+- Network access via Tailscale
+- Performance and system optimization
 
 ---
 
 ## Background
 
-I studied Civil Engineering up to the 10th semester, which gave me a structured way of thinking and breaking down complex problems.
+I studied Civil Engineering up to the 10th semester, which shaped my structured and analytical approach to problem-solving.
 
-Today, I manage:
+Alongside my tech journey, I actively manage:
 - Pró Sol Energia Solar
 - WS Pilates
 
-Running businesses taught me a lot about responsibility, clients, and making things actually work in the real world — not just in theory.
+This experience gives me a strong foundation in:
+- Project management
+- Real-world problem solving
+- Client-oriented thinking
 
 ---
 
