@@ -1,80 +1,61 @@
-# Hi, I'm Thales de Tarso
+# Hi, I'm Thales Soares
 
-I’m an entrepreneur with a background in Civil Engineering, currently transitioning into Software Development and Infrastructure.
+**Backend Developer & Tech Entrepreneur | Building Scalable & Secure Systems**
 
-Based in Curitiba, Brazil, I’ve always worked with problem-solving — from engineering to managing my own businesses, and now building software and backend systems.
-
-Recently, I’ve been focused on **backend development, containerization, and self-hosted infrastructure**, building projects that simulate real-world applications.
+Based in Curitiba, Brazil. I bridge the gap between business requirements and technical execution. With a strong background in Civil Engineering and years of experience managing my own companies, I transitioned into Software Engineering with a focus on robust backend architectures, test-driven development, and self-hosted infrastructure.
 
 ---
 
-## Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
-**Backend & Web**
-- Node.js (Express)
-- REST APIs
-- MongoDB & Mongoose
+**Backend & Architecture**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Infrastructure & Systems**
-- Docker & Docker Compose
-- Ubuntu / Linux
-- Tailscale (networking & remote access)
+**Testing & Quality**
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+- Test-Driven Development (TDD)
+- Clean Architecture & Domain-Driven Design (DDD) principles
 
-**Front-end (in progress)**
-- HTML5, CSS3
-- JavaScript (Vanilla)
-
-**Self-hosted stack**
-- Jellyfin
-- Radarr, Sonarr, Lidarr
-
----
-
-## Projects
-
-**LibreFlix (Full-Stack Project)**  
-A movie streaming platform built to understand real-world application architecture.
-
-- REST API with MongoDB (Mongoose)
-- Dockerized environment with multi-container setup
-- Authentication via middleware and environment variables
-- Front-end consuming API with async/await
-
-This project evolved from a static page into a structured backend system, focusing on scalability and real-world practices.
+**Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Docker Compose, Tailscale, Self-Hosted Servers (Ubuntu)
 
 ---
 
-**Home Server Lab**  
-Transforming a Sony Vaio SVE14 into a fully functional home server.
+## 🚀 Featured Projects
 
-- Docker-based services
-- Media automation stack
-- Network access via Tailscale
-- Performance and system optimization
+### 🔐 [Secure Auth API](https://github.com/SoaresThales/secure-auth-api) (Latest)
+A robust REST API for user authentication built from the ground up to demonstrate advanced software engineering practices.
+- **Tech:** Node.js, Express, PostgreSQL, Docker, Jest.
+- **Highlights:** Fully implemented Clean Architecture, guided by TDD. Features secure password hashing (Bcrypt) and session management via JWT. 
 
----
+### 🎬 LibreFlix
+A full-stack movie streaming platform project built to master application architecture and containerization.
+- **Tech:** Node.js, Express, MongoDB (Mongoose), Vanilla JS, Docker.
+- **Highlights:** Multi-container environment, custom authentication middleware, and asynchronous API consumption.
 
-## Background
-
-I studied Civil Engineering up to the 10th semester, which shaped my structured and analytical approach to problem-solving.
-
-Alongside my tech journey, I actively manage:
-- Pró Sol Energia Solar
-- WS Pilates
-
-This experience gives me a strong foundation in:
-- Project management
-- Real-world problem solving
-- Client-oriented thinking
+### 🖥️ Home Server Lab
+Transformed legacy hardware (Sony Vaio) into a fully functional, headless Linux home server.
+- **Highlights:** Automated media stack deployment via Docker Compose, remote secure access via Tailscale, and advanced system performance optimization.
 
 ---
 
-## Contact
+## 📈 Background & Leadership
 
-- LinkedIn: https://www.linkedin.com/in/thales-soares-dev/
-- Email: thales.soares@outlook.com
-- Location: Curitiba, Brazil
+I studied Civil Engineering up to the 10th semester at PUCPR, which deeply shaped my analytical approach to software architecture. Alongside my tech career, I actively manage two businesses:
+- **Pró Sol Energia Solar**
+- **WS Pilates**
 
-Languages:
-- Portuguese (Native)
-- English (Professional)
+This entrepreneurial journey gives me a unique foundation in project management, workflow automation, and client-oriented technical solutions.
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/thales-soares-dev](https://www.linkedin.com/in/thales-soares-dev/)
+- **Email:** thales.soares@outlook.com
